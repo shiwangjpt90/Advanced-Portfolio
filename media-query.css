@@ -71,6 +71,9 @@
     .images img{
         width: 90px;
     }
+    .about{
+        text-align:center;
+    }
     .foot{
         flex-direction: column;
         height: 100px;
